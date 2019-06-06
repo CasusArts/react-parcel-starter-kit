@@ -1,0 +1,23 @@
+@font-face {
+  font-family: RobotoCondensed;
+  scr: url(assets/roboto-condensed.light.ttf);
+  font-weight: 800;
+}
+@font-face {
+  font-family: Economica;
+  src: url(assets/economica-bold.ttf);
+  font-weight: 800;
+}
+
+body {
+  text-align: center;
+  font-size: 16px;
+  padding: 2.5%;
+  font-family: 'Fira Code';
+  font-variant-ligatures: common-ligatures;
+  background-color: azure;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Hack';
+}
